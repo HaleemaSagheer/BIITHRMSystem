@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BIITHRMSystem", "BIITHRMSystem\BIITHRMSystem.csproj", "{161E8BA3-F1EA-4062-A8F5-A839E17FBB76}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{161E8BA3-F1EA-4062-A8F5-A839E17FBB76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{161E8BA3-F1EA-4062-A8F5-A839E17FBB76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{161E8BA3-F1EA-4062-A8F5-A839E17FBB76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{161E8BA3-F1EA-4062-A8F5-A839E17FBB76}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD1C2BD8-B3FD-438E-B265-B8B149E139F0}
+	EndGlobalSection
+EndGlobal
